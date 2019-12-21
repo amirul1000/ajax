@@ -5,11 +5,11 @@
 In this video tutorial I am going to show you how the AJAX works between client ( browser) side and Server side 
 and how data 
 is being passed among them.
-Ajax Full meaning is Asynchronus JavaScript and XML.
+Ajax Full meaning is Asynchronous JavaScript and XML.
 
 Asyncronus JavaScript and XML
 ===============================
-Asyncronus - Asynchronus we know no dependency and multiple task could be perfoemed at the same time.
+Asyncronus - Asynchronous we know no dependency and multiple task could be perfoemed at the same time.
 XML        - Data is XML - Extended Markup Language with the starting tag <xml>
               this xml could be plain text,orginal xml format or JSON format according to need we will use.
 Javascript - Code is in javascript
@@ -27,11 +27,11 @@ we dont need to wait for server response
 with ajax browser is like desktop to play with.
 we can do other task on browser when ajax work on back end by api and 
 at the same time we can send multiple request to the server.
-we can send request to the server asyncronously or syncronously.
-when ayncrhonus no dependancy among the request sent.
-when synchronus browser wait until previous task has been performed.
+we can send request to the server asynchronously or synchronously.
+when asynchronous no dependancy among the request sent.
+when synchronous browser wait until previous task has been performed.
 
-State of Task Perfoemed
+States of Task Perfoemed
 =========================
 ready state
 open state
