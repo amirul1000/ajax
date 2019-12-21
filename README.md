@@ -20,7 +20,7 @@ What happens in Traditional way.
 =========================================
 we submit data from browser and we wait until data received from the server again and full loaded to the browser.
 This is the drawback to work multiple task and is not fancy and we need to wait for server 
-response and the page being loaded again.
+response and the page is being loaded again.
 
 Ajax resolves this problem
 =============================================
