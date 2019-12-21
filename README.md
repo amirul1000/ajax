@@ -1,6 +1,7 @@
 "# ajax" 
 
-
+Ajax ( Asynchronous JavaScript and XML) with PHP MySQL API
+==========================================================
 
 In this video tutorial I am going to show you how the AJAX works between client ( browser) side and Server side 
 and how data 
@@ -17,16 +18,17 @@ Javascript - Code is in javascript
 
 What happen in Traditional way.
 =============================
-we submit data from browser and we wait until data recived from the server again and full loaded to the browser.
+we submit data from browser and we wait until data received from the server again and full loaded to the browser.
 This is the drawback to work multiple task and is not fancy and we need to wait for server 
-response and page being loaded again.
+response and the page being loaded again.
 
 Ajax resolve this problem
 ===========================
 we dont need to wait for server response 
 with ajax browser is like desktop to play with.
-we can do other task on browser when ajax work on back end by api and 
-at the same time we can send multiple request to the server.
+we can do other tasks on the browser when ajax works 
+with back end by api and 
+at the same time we can send multiple requests to the server.
 we can send request to the server asynchronously or synchronously.
 when asynchronous no dependancy among the request sent.
 when synchronous browser wait until previous task has been performed.
@@ -37,6 +39,7 @@ ready state
 open state
 send 
 wait and call back
+
 
 
 Youtube Tutorial : https://www.youtube.com/watch?v=B-wtBJJtVXY
