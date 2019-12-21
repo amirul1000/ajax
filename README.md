@@ -31,7 +31,7 @@ we can send request to the server asyncronously or syncronously.
 when ayncrhonus no dependancy among the request sent.
 when synchronus browser wait until previous task has been performed.
 
-Sate of Task Perfoemed
+State of Task Perfoemed
 =========================
 ready state
 open state
