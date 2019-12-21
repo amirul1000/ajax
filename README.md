@@ -36,8 +36,11 @@ when synchronous browser wait until previous task has been performed.
 States of Task Performed
 ========================================
 ready state
+
 open state
+
 send 
+
 wait and call back
 
 
