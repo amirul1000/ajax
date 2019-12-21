@@ -11,7 +11,9 @@ Ajax Full meaning is Asynchronous JavaScript and XML.
 Asynchronous JavaScript and XML
 ==================================
 Asynchronous - Asynchronous we know no dependency and multiple tasks could be performed at the same time.
+
 XML        - Data is XML(Extended Markup Language) with the starting tag XML.This XML  could be plain text,original XML format or JSON format according to need we will use.
+
 JavaScript - Code is in JavaScript
 
 What happens in Traditional way.
