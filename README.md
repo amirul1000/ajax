@@ -16,7 +16,7 @@ XML        - Data is XML - Extended Markup Language with the starting tag <xml>
 Javascript - Code is in javascript
 
 
-What happen in Traditional way.
+What happens in Traditional way.
 =============================
 we submit data from browser and we wait until data received from the server again and full loaded to the browser.
 This is the drawback to work multiple task and is not fancy and we need to wait for server 
