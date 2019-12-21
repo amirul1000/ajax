@@ -22,7 +22,7 @@ we submit data from browser and we wait until data received from the server agai
 This is the drawback to work multiple task and is not fancy and we need to wait for server 
 response and the page being loaded again.
 
-Ajax resolve this problem
+Ajax resolves this problem
 ===========================
 we dont need to wait for server response 
 with ajax browser is like desktop to play with.
