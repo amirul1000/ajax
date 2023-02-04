@@ -44,10 +44,7 @@ send
 wait and call back
 
 
-Youtube Tutorial : https://youtu.be/EotH1z5Lb1I
+Youtube Tutorial : https://youtu.be/iX4I4-Eg688
 
-Youtube Channel : https://www.youtube.com/channel/UC2Q4oWfoMQzi6AES8Vb2vQw?view_as=subscriber
 
 Donate to Paypal : patabuz@gmail.com
-
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KHM59LRPNV3YY&source=url
